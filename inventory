@@ -1,0 +1,11 @@
+[automationcontroller]
+controller.bk.lab
+
+[automationhub]
+pah.bk.lab
+
+[builder]
+controller.bk.lab
+
+[execution]
+localhost ansible_connection=local
